@@ -37,8 +37,6 @@ body {
 
 .about-me-section {
     width: 400px;
-
-
 }
 
 .about-me-section p {
@@ -95,6 +93,8 @@ ol li,
 
 .work-experience-section {
     margin-top: 50px;
+    padding-right: 220px;
+    
 }
 
 .work-experience-position {
